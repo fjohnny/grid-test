@@ -79,7 +79,7 @@ function App() {
       </div>
       <div className="Container">{showSelectedGrid()}</div>
       <div className="Container">
-        <button onClick={handleButtonClick}>Change Quantity</button>
+        <button onClick={handleButtonClick}>Change Data</button>
       </div>
     </div>
   );
